@@ -64,7 +64,7 @@ GROUP BY
 	b.brand_name;
 Report Creation
 Created final Dashboard by using Tableau image
-[image alt](https://github.com/Sandeep56527/Bike_Store_Analysis_DashBoard-/blob/56c59e214481fd0bba631463f7736e6b69cf588b/Dashboard%201.png)
+![Dashboard Preview](https://github.com/Sandeep56527/Bike_Store_Analysis_DashBoard-/blob/56c59e214481fd0bba631463f7736e6b69cf588b/Dashboard%201.png)
 
 to access the dashboard directly please Click Here
 Results
